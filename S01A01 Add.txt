@@ -1,0 +1,13 @@
+public class Addition {
+
+   public static void main (String[] args)
+        //
+	int firstNumber=20;
+	float secondNumber=39.60;
+	int sum;
+
+	sytem.out.printIn ("Sum is: "+sum);
+   }
+
+
+}
